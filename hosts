@@ -1,0 +1,12 @@
+
+127.0.0.1	localhost
+::1	localhost ip2-localhost ip2-loopback
+fe00::0	ip2-localnet
+ff00::0	ip2-mcastprefix
+ff02::1	ip2-allnodes
+ff02::2	ip2-allrouters
+
+
+172.21.0.4 mysql
+172.21.0.3 maq2
+172.21.0.2 maq1
